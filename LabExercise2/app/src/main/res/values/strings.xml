@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LabExercise</string>
+    <string name="crate_length">Length:</string>
+    <string name="crate_width">Width:</string>
+    <string name="crate_height">Height:</string>
+    <string name="calculate">Calculate</string>
+
+    <string name="length"></string>
+    <string name="width"></string>
+    <string name="height"></string>
+
+    <string name="volume">Volume:</string>
+    <string name="cost">Cost Building:</string>
+    <string name="charge">Customer Charge:</string>
+    <string name="profit">Profit Made:</string>
+    
+    <string name="cal_volume"></string>
+    <string name="cal_cost"></string>
+    <string name="cal_charge"></string>
+    <string name="cal_profit"></string>
+</resources>
+
+
